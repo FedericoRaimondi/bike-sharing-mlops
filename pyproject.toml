@@ -2,6 +2,7 @@
 name = "bike-sharing-mlops"
 version = "0.1.0"
 description = "Test repo to learn and apply mlops best practices"
+authors = [{name = "Federico Raimondi Cominesi"}]
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
@@ -11,6 +12,13 @@ dependencies = [
     "plotly>=6.0.0",
     "scikit-learn>=1.6.1",
 ]
+license = { file = "LICENSE.txt" }
+keywords = ["mlops", "python", "package"]
+
+[project.urls]
+Homepage = "https://github.com/FedericoRaimondi/bike-sharing-mlops"
+Documentation = ""
+Repository = "https://github.com/FedericoRaimondi/bike-sharing-mlops"
 
 [dependency-groups]
 dev = [
