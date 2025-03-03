@@ -1,0 +1,34 @@
+{
+  "template": "https://github.com/JoseRZapata/data-science-project-template",
+  "commit": "66f22d308d22e9df0f2c27c5e8b93428349a39f9",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "bike-sharing-mlops",
+      "repo_name": "bike-sharing-mlops",
+      "github_username": "FedericoRaimondi",
+      "author_name": "Federico Raimondi Cominesi",
+      "author_email": "federico.raimondi@gsom.polimi.it",
+      "description": "Test repo to learn and apply mlops best practices",
+      "compatible_python_versions": "3.12",
+      "mkdocs": true,
+      "codecov": true,
+      "license": "MIT License",
+      "_copy_without_render": [
+        ".code_quality/*",
+        ".vscode/*",
+        "config/*",
+        "data/*",
+        "src/*",
+        "tests/*",
+        ".editorconfig",
+        ".pre-commit-config.yaml",
+        "codecov.yaml",
+        "docs/*"
+      ],
+      "_template": "https://github.com/JoseRZapata/data-science-project-template",
+      "_commit": "66f22d308d22e9df0f2c27c5e8b93428349a39f9"
+    }
+  },
+  "directory": null
+}
