@@ -10,7 +10,7 @@
   color: "7057ff"
 - name: ":interrobang: maybe-bug"
   color: "5fc1ce"
-  description: "Something that might be a bug if more info is given"
+  description: "Something that might be a bug, but you aren't so sure."
 - name: ":mega: feedback"
   color: "ecef8d"
 - name: ":memo: docs"
