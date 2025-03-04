@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "Test repo to learn and apply mlops best practices"
 authors = [{name = "Federico Raimondi Cominesi"}]
 readme = "README.md"
-requires-python = ">=3.13"
+requires-python = ">=3.12"
 dependencies = [
     "mlflow>=2.20.2",
     "numpy>=2.2.3",
