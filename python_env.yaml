@@ -1,5 +1,5 @@
 {
-    "python": "3.13",
+    "python": "3.12",
     "dependencies": [
         "alembic==1.14.0",
         "annotated-types==0.7.0",
