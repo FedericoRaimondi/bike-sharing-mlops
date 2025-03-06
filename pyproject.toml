@@ -9,7 +9,7 @@ version = "1.0.0"
 description = "Predict the number of bikes available."
 authors = [{ name = "Federico Raimondi"}]
 readme = "README.md"
-requires-python = ">=3.13"
+requires-python = ">=3.12"
 dependencies = [
     "loguru>=0.7.2",
     "matplotlib>=3.9.3",
@@ -89,7 +89,7 @@ omit = ["__main__.py"]
 
 [tool.mypy]
 pretty = true
-python_version = "3.13"
+python_version = "3.12"
 check_untyped_defs = true
 ignore_missing_imports = true
 plugins = ["pandera.mypy", "pydantic.mypy"]
@@ -102,7 +102,7 @@ pythonpath = ["src"]
 fix = true
 indent-width = 4
 line-length = 100
-target-version = "py313"
+target-version = "py312"
 
 [tool.ruff.format]
 docstring-code-format = true
