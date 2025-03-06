@@ -6,3 +6,5 @@ Exercise repo to test and try MLOps best practices.
 
 
 Based on [MLOps Coding Course](https://mlops-coding-course.fmind.dev/index.html).
+
+The goal of this repo is to have a playground to test GitHub tools, Automation and so on...
