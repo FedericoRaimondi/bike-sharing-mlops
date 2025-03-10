@@ -129,7 +129,7 @@ rpds-py==0.22.3
 rsa==4.9
 ruff==0.8.3
 scikit-learn==1.5.2
-scipy==1.14.1
+scipy==1.15.2
 setuptools==75.6.0
 shap==0.46.0
 six==1.17.0
